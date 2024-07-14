@@ -7,7 +7,7 @@
 Property                 | Data  
 -------------------------|------
 Literal|2023 ♥ 2024
-📌       |  "Look at these things jajajja"
+🐱‍👤       |  忍者ハットリくん
 Contact                |<a href="https://www.facebook.com/R.Y.Yamamura" target="_blank">   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
